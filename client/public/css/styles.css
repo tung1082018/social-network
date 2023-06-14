@@ -1,0 +1,25 @@
+.bg-default-image {
+    background-image: url("/images/default.jpg");
+    background-size: 80%;
+    height: 100px;
+    text-shadow: 2px 2px 8px #bd3838;
+}
+.logo {
+    text-shadow: 2px 2px rgb(169, 54, 79);
+}
+
+.active {
+    background-color: navy;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.ant-list-item {
+    padding-left: 0 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
